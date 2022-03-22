@@ -1,0 +1,60 @@
+Order: 1
+Client Name: ana pop
+Product Name: salam uscat
+Quantity : 10
+Price : 12
+
+Order: 2
+Client Name: ioana timis
+Product Name: salam uscat
+Quantity : 13
+Price : 12
+
+Order: 3
+Client Name: ana pop
+Product Name: salam uscat
+Quantity : 14
+Price : 12
+
+Order: 4
+Client Name: ioana timis
+Product Name: paine
+Quantity : 15
+Price : 4
+
+Order: 5
+Client Name: ioana timis
+Product Name: paine
+Quantity : 21
+Price : 4
+
+Order: 6
+Client Name: dana pop
+Product Name: apa minerala
+Quantity : 20
+Price : 4
+
+Order: 7
+Client Name: dana pop
+Product Name: creion
+Quantity : 16
+Price : 12
+
+Order: 8
+Client Name: ana pop
+Product Name: creion
+Quantity : 12
+Price : 12
+
+Order: 9
+Client Name: alex pop mihai
+Product Name: lapte
+Quantity : 30
+Price : 4
+
+Order: 10
+Client Name: andrei pop
+Product Name: caiet
+Quantity : 12
+Price : 12
+

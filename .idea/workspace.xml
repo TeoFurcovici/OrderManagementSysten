@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b642f122-32e7-4768-a66b-327986aa33e2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bill.txt" beforeDir="false" afterPath="$PROJECT_DIR$/bill.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/start/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/start/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/start/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/start/Main.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ElmWorkspace">
+    <elmProjects />
+    <settings elmCompilerPath="C:\Program Files (x86)\Elm\0.19.1\bin\elm.exe" elmFormatPath="null" elmTestPath="C:\Users\Teo\AppData\Roaming\npm\elm-test.cmd" isElmFormatOnSaveEnabled="false" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA 2020.2.2\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1qyly0E9jiCaA6Sk3m5W1fv3Gzg" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../SD/travelAgency" />
+    <property name="org.elm.workspace.PROJECT_DISCOVERY" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="start.Main" />
+      <module name="PT2021_30421_Furcovici_Teodora-Melania_Assignment_3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b642f122-32e7-4768-a66b-327986aa33e2" name="Default Changelist" comment="" />
+      <created>1618059965511</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1618059965511</updated>
+      <workItem from="1618059969005" duration="8240000" />
+      <workItem from="1618124138965" duration="6659000" />
+      <workItem from="1618225850762" duration="7485000" />
+      <workItem from="1618313028264" duration="1523000" />
+      <workItem from="1618314634919" duration="16875000" />
+      <workItem from="1618413307885" duration="10595000" />
+      <workItem from="1618494160899" duration="18783000" />
+      <workItem from="1618550105492" duration="15294000" />
+      <workItem from="1618635058289" duration="19388000" />
+      <workItem from="1618677602246" duration="3393000" />
+      <workItem from="1618811035713" duration="2989000" />
+      <workItem from="1618851067316" duration="831000" />
+      <workItem from="1618894625021" duration="3859000" />
+      <workItem from="1618937156124" duration="955000" />
+      <workItem from="1619191336350" duration="178000" />
+      <workItem from="1619194639032" duration="3815000" />
+      <workItem from="1619255768087" duration="684000" />
+      <workItem from="1619261278319" duration="631000" />
+      <workItem from="1620459607132" duration="64000" />
+      <workItem from="1620462313812" duration="4991000" />
+      <workItem from="1620634820645" duration="29000" />
+      <workItem from="1620734056805" duration="5024000" />
+      <workItem from="1620754238724" duration="594000" />
+      <workItem from="1620800785395" duration="2001000" />
+      <workItem from="1620817612326" duration="7000" />
+      <workItem from="1620849468766" duration="160000" />
+      <workItem from="1621006487988" duration="1827000" />
+      <workItem from="1621855222663" duration="3419000" />
+      <workItem from="1621867072480" duration="616000" />
+      <workItem from="1621869038404" duration="38000" />
+      <workItem from="1622188315875" duration="618000" />
+      <workItem from="1622657403436" duration="111000" />
+      <workItem from="1645445961050" duration="3227000" />
+      <workItem from="1646577314674" duration="2230000" />
+      <workItem from="1646582921397" duration="593000" />
+      <workItem from="1646666347195" duration="736000" />
+      <workItem from="1646668704033" duration="183000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="206" y="254" key="#SQL_Dialects" timestamp="1645451526049">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="206" y="254" key="#SQL_Dialects/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1645451526049" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1646668886338">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1645451621419" />
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1646668886338" />
+    <state width="1493" height="2" key="GridCell.Tab.0.bottom" timestamp="1646668644726">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="2" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1645451622316" />
+    <state width="1493" height="2" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1646668644726" />
+    <state width="1493" height="2" key="GridCell.Tab.0.center" timestamp="1646668644726">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="2" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1645451622316" />
+    <state width="1493" height="2" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1646668644726" />
+    <state width="1493" height="2" key="GridCell.Tab.0.left" timestamp="1646668644725">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="2" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1645451622315" />
+    <state width="1493" height="2" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1646668644725" />
+    <state width="1493" height="2" key="GridCell.Tab.0.right" timestamp="1646668644726">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="2" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1645451622316" />
+    <state width="1493" height="2" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1646668644726" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1646668740846">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1646668740846" />
+    <state x="478" y="145" width="579" height="534" key="find.popup" timestamp="1645451394204">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="478" y="145" width="579" height="534" key="find.popup/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1645451394204" />
+  </component>
+</project>

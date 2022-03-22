@@ -1,0 +1,6 @@
+cd existing_folder
+git init
+git remote add origin https://gitlab.com/pt2021_30421_furcovici_teodora-melania/pt2021_30421_furcovici_teodora-melania_assignment_3.git
+git add .
+git commit -m "Initial commit"
+git push -u origin master
